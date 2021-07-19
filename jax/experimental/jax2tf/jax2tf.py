@@ -1018,6 +1018,7 @@ tf_not_yet_impl = [
     "psum",
     "pmax",
     "pgather",
+    "reduce_scatter",
     "axis_index",
     "pdot",
     "all_gather",
